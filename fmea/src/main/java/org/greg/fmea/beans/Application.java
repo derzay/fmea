@@ -2,6 +2,8 @@ package org.greg.fmea.beans;
 
 public class Application {
 	
+	//some documentation
+	
 	private int id;
 	private String name;
 	
