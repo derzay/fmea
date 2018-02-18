@@ -2,7 +2,7 @@ package org.greg.fmea.beans;
 
 public class Application {
 	
-	//skdjfalskjdfal;ksjdkf
+	//
 	
 	private int id;
 	private String name;
